@@ -6,5 +6,6 @@ public class MainClass {
 		System.out.println("Starting MainClass");
 		PrintToConsole printToConsole = new PrintToConsole();
 		printToConsole.printMeassage();
+		System.out.println("Ending MainClass");
 	}
 }
